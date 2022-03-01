@@ -8,10 +8,10 @@ const Nav = () => {
         <div className="logo">Converter</div>
         <ul className="nav">
           <li>
-            <p>x</p>
+            <p>About</p>
           </li>
           <li>
-            <p>x</p>
+            <p>FAQ</p>
           </li>
         </ul>
       </div>
